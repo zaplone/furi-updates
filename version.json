@@ -1,8 +1,7 @@
 {
-  "version": "1.2.0",
-  "build_number": 3,
+  "latest_version": "1.2.0",
   "download_url": "https://github.com/zaplone/furi-updates/releases/download/v1.2.0/furi-v1.2.0.apk",
-  "update_log": [
+  "changelog": [
     "🔥 新增意见反馈功能，支持用户评分和建议提交",
     "📊 新增使用统计功能，查看应用使用数据",
     "🎨 优化界面布局，增加v1.2.0功能区域",
@@ -10,5 +9,7 @@
     "🐛 修复已知问题"
   ],
   "force_update": false,
-  "min_version": "1.0.0"
+  "min_supported_version": "1.0.0",
+  "update_time": "2024-06-14",
+  "file_size": "22.0MB"
 }
